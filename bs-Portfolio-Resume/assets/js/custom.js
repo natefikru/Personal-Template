@@ -29,6 +29,8 @@ jQuery(function($) {
             }
         }
     });
+    
+    $('.carousel').carousel();
 
     /*==========================================
    SCROLL REVEL SCRIPTS

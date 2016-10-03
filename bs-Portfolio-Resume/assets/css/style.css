@@ -101,12 +101,12 @@ p {
 
 #header-section {
 	background: url(../img/bear.jpg) no-repeat center top;
-	margin-top: -20px;
-	padding-top:200px;
+	margin-top: auto;
+	padding-top:270px;
 	text-align:center;
 	background-position: center center;
 	min-height: 700px;
-	height: 100%;	
+	height: 100vh;	
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
@@ -209,9 +209,9 @@ color: #FFFFFF;
    
 
 #footer {
-    background-color: #2F11C4; 
+    background-color: black; 
     color: #fff; 
-    text-align: right; 
+    text-align: center; 
     padding: 10px 30px 10px 30px;
 }
 
